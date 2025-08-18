@@ -1,7 +1,7 @@
 
- <h1 align="center">Ứng Dụng Quản Lý Quán Coffee ☕ </h1>
+ <h1 align="center">Ứng Dụng Quản Lý Quán Nước </h1>
 <p align="center">
-  📚 <strong>Java OOP Project</strong> – Nhóm : <code>OOP_N05_T3_2025_HIEU_HAI</code><br>                                                 
+  📚 <strong>Java OOP Project</strong> – Nhóm : <code>OOP_N01_2025</code><br>                                                 
   
 
 
@@ -74,8 +74,7 @@ Nhân viên (Nhân viên phục vụ / thu ngân)
 
 | 👤 Thành viên | 🎓 Mã sinh viên | 💻 GitHub |
 |--------------|----------------|-----------|
-| Nguyễn Văn Hiếu | 24100145 | [nguyenhieuzzz](https://github.com/nguyenhieuzzz) |
-| Lê Quang Hải | 24100124 | [lequanghai-14](https://github.com/lequanghai-14) |
+| Nguyễn Minh Khôi | 24100212 |
 
-📩 **Liên hệ giảng viên:** Nguyễn Lệ Thu  
-🏫 **Lớp:** OOP_N05 – Kỳ 3, Năm 2025
+📩 **Liên hệ giảng viên:** Trần Đình Tân
+🏫 **Lớp:** OOP_N01 – Kỳ 3, Năm 2025
