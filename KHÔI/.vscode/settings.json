@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "review/Access/bài1/bài1/ex5",
+        "review/Access/bài1/bài1",
+        "test",
+        "Review/model",
+        "Review/test"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
